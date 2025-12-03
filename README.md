@@ -1,52 +1,21 @@
-Ingredient Extraction AI Model is a machine learning project built using spaCy to perform Named Entity Recognition (NER) for food and cooking-related text.
-The model is trained on custom annotated data to recognize a specialized entity label: INGREDIENT.
+🥗 Ingredient Extraction AI Model
 
-This AI system can accurately detect ingredients from any recipe instruction or cooking text, enabling automated processing of:
+A custom spaCy Named Entity Recognition (NER) model trained to detect the INGREDIENT entity from recipe and cooking text. The model identifies spices, vegetables, powders, condiments, and other food items.
 
-Spices
+🚀 Features
 
-Vegetables
+Custom spaCy NER model
 
-Powders
+Detects ingredients from any text
 
-Condiments
+Easy to use and integrate
 
-Dairy products
+Suitable for recipe apps, food AI, and cooking assistants
 
-Herbs & seasonings
-
-Cooking essentials
-
-🎯 Key Features
-
-Custom-trained spaCy NER model
-
-Detects the "INGREDIENT" entity with high precision
-
-Easy to integrate into Python applications
-
-Supports real-time ingredient extraction
-
-Perfect for recipe apps, food search engines, and culinary chatbots
-
-🔧 Tech Stack
+🧠 Tech Stack
 
 Python
 
 spaCy
 
-Custom NER Training (INGREDIENT)
-
-Hand-annotated training dataset
-
-🚀 Use Cases
-
-Smart recipe apps
-
-Grocery shopping list generation
-
-AI cooking assistants
-
-Food classification systems
-
-Nutrition & diet applications
+Custom annotated training data
